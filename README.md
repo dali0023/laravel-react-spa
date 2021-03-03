@@ -19,8 +19,8 @@ npm / yarn add history react-router-dom@next --save
 
 
 **For working with react state:**
-**Just add to package.json:
-**
+**Just add to package.json:**
+
 "babel": {
         "presets": [
             "@babel/preset-env",
