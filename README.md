@@ -12,7 +12,7 @@ npm install
 npm run dev
 
 **Install React with auth if need:**
-•	php artisan ui react --auth
+   php artisan ui react --auth
 
 **React Router 6:**
 npm / yarn add history react-router-dom@next --save
