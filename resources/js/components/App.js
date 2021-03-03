@@ -10,7 +10,7 @@ import Nav from "../components/Nav";
 import Contact from "../components/Contact";
 import AddContact from "../components/AddContact";
 import EditContact from "../components/EditContact";
-function Example() {
+function App() {
     return (
 
         <>
@@ -26,8 +26,8 @@ function Example() {
     );
 }
 
-export default Example;
+export default App;
 
-if (document.getElementById("example")) {
-    ReactDOM.render(<Example />, document.getElementById("example"));
+if (document.getElementById("app")) {
+    ReactDOM.render(<App />, document.getElementById("app"));
 }
